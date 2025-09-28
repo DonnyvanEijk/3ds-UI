@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import { UserCard } from "../../components/top-part/user-card";
-import { FriendCard } from "../../components/top-part/friend-card";
+import { UserCard } from "../../components/ui/top-part/user-card";
+import { FriendCard } from "../../components/ui/top-part/friend-card";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -29,15 +29,17 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
         style={{
-          backgroundColor: "#f3f4f6",
+          backgroundColor: "#E6E6E6",
           backgroundImage:
         "radial-gradient(circle, #fff 1px, transparent 1px), radial-gradient(circle, #fff 1px, transparent 1px)",
           backgroundSize: "20px 20px",
           backgroundPosition: "0 0, 10px 10px",
         }}
       >
-        <FriendCard/>
-        <UserCard/>
+        <div>
+          <FriendCard/>
+          <UserCard/>
+        </div>
         {children}
       </body>
     </html>
