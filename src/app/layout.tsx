@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import { UserCard } from "../../components/user-card";
+import { UserCard } from "../../components/top-part/user-card";
+import { FriendCard } from "../../components/top-part/friend-card";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -35,6 +36,7 @@ export default function RootLayout({
           backgroundPosition: "0 0, 10px 10px",
         }}
       >
+        <FriendCard/>
         <UserCard/>
         {children}
       </body>
