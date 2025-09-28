@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Nintendo DS",
+    "totalGames": 5,
+    "icon": "https://picsum.photos/seed/ds/400/400",
+    "color1": "#EF4444",
+    "color2": "#3B82F6",
+    "color3": "#EC4899",
+    "games": [
+      { "name": "Mario Kart DS", "icon": "https://picsum.photos/seed/mariokartds/200/200" },
+      { "name": "Pokemon Diamond", "icon": "https://picsum.photos/seed/pokemondiamond/200/200" },
+      { "name": "New Super Mario", "icon": "https://picsum.photos/seed/newsupermario/200/200" },
+      { "name": "The World Ends With You", "icon": "https://picsum.photos/seed/twewy/200/200" },
+      { "name": "Professor Layton", "icon": "https://picsum.photos/seed/layton/200/200" }
+    ]
+  },
+  {
+    "name": "Game Boy Advance",
+    "totalGames": 4,
+    "icon": "https://picsum.photos/seed/gba/400/400",
+    "color1": "#22C55E",
+    "color2": "#FACC15",
+    "color3": "#84CC16",
+    "games": [
+      { "name": "Pokemon Ruby", "icon": "https://picsum.photos/seed/pokemonruby/200/200" },
+      { "name": "Advance Wars", "icon": "https://picsum.photos/seed/advancewars/200/200" },
+      { "name": "Metroid Fusion", "icon": "https://picsum.photos/seed/metroidfusion/200/200" },
+      { "name": "Fire Emblem", "icon": "https://picsum.photos/seed/fireemblem/200/200" }
+    ]
+  },
+  {
+    "name": "Nintendo 64",
+    "totalGames": 5,
+    "icon": "https://picsum.photos/seed/n64/400/400",
+    "color1": "#3B82F6",
+    "color2": "#A78BFA",
+    "color3": "#06B6D4",
+    "games": [
+      { "name": "Super Mario 64", "icon": "https://picsum.photos/seed/sm64/200/200" },
+      { "name": "GoldenEye 007", "icon": "https://picsum.photos/seed/goldeneye/200/200" },
+      { "name": "Mario Kart 64", "icon": "https://picsum.photos/seed/mk64/200/200" },
+      { "name": "The Legend of Zelda: Ocarina of Time", "icon": "https://picsum.photos/seed/zeldaoot/200/200" },
+      { "name": "Banjo-Kazooie", "icon": "https://picsum.photos/seed/banjokazooie/200/200" }
+    ]
+  },
+  {
+    "name": "GameCube",
+    "totalGames": 5,
+    "icon": "https://picsum.photos/seed/gc/400/400",
+    "color1": "#8B5CF6",
+    "color2": "#EC4899",
+    "color3": "#C4B5FD",
+    "games": [
+      { "name": "Super Smash Bros. Melee", "icon": "https://picsum.photos/seed/ssbm/200/200" },
+      { "name": "Luigi's Mansion", "icon": "https://picsum.photos/seed/luigi/200/200" },
+      { "name": "Metroid Prime", "icon": "https://picsum.photos/seed/metroidprime/200/200" },
+      { "name": "Mario Kart: Double Dash!!", "icon": "https://picsum.photos/seed/mkd/200/200" },
+      { "name": "The Legend of Zelda: Wind Waker", "icon": "https://picsum.photos/seed/zeldaww/200/200" }
+    ]
+  },
+  {
+    "name": "Wii",
+    "totalGames": 5,
+    "icon": "https://picsum.photos/seed/wii/400/400",
+    "color1": "#14B8A6",
+    "color2": "#22D3EE",
+    "color3": "#60A5FA",
+    "games": [
+      { "name": "Wii Sports", "icon": "https://picsum.photos/seed/wiisports/200/200" },
+      { "name": "Mario Galaxy", "icon": "https://picsum.photos/seed/mariogalaxy/200/200" },
+      { "name": "The Legend of Zelda: Twilight Princess", "icon": "https://picsum.photos/seed/zeldatp/200/200" },
+      { "name": "Super Smash Bros. Brawl", "icon": "https://picsum.photos/seed/ssbb/200/200" },
+      { "name": "Metroid Prime 3", "icon": "https://picsum.photos/seed/metroidprime3/200/200" }
+    ]
+  },
+  {
+    "name": "PlayStation 2",
+    "totalGames": 5,
+    "icon": "https://picsum.photos/seed/ps2/400/400",
+    "color1": "#F59E0B",
+    "color2": "#D97706",
+    "color3": "#FBBF24",
+    "games": [
+      { "name": "Shadow of the Colossus", "icon": "https://picsum.photos/seed/sotc/200/200" },
+      { "name": "Final Fantasy X", "icon": "https://picsum.photos/seed/ffx/200/200" },
+      { "name": "God of War", "icon": "https://picsum.photos/seed/gow/200/200" },
+      { "name": "Kingdom Hearts", "icon": "https://picsum.photos/seed/kh/200/200" },
+      { "name": "Metal Gear Solid 3", "icon": "https://picsum.photos/seed/mgs3/200/200" }
+    ]
+  },
+  {
+    "name": "Xbox",
+    "totalGames": 5,
+    "icon": "https://picsum.photos/seed/xbox/400/400",
+    "color1": "#10B981",
+    "color2": "#06B6D4",
+    "color3": "#34D399",
+    "games": [
+      { "name": "Halo: Combat Evolved", "icon": "https://picsum.photos/seed/halo/200/200" },
+      { "name": "Fable", "icon": "https://picsum.photos/seed/fable/200/200" },
+      { "name": "Ninja Gaiden", "icon": "https://picsum.photos/seed/ninjagaiden/200/200" },
+      { "name": "Star Wars: Knights of the Old Republic", "icon": "https://picsum.photos/seed/kotor/200/200" },
+      { "name": "Project Gotham Racing", "icon": "https://picsum.photos/seed/pgr/200/200" }
+    ]
+  }
+]
